@@ -7,6 +7,7 @@ A autenticação é simulada localmente, sem uso de banco de dados ou conexão c
 
 
 ## Metas de Usabilidade
+<<<<<<< HEAD
 
 - **Fácil de lembrar como usar:**  
   A interface possui apenas dois campos (email e senha) e um botão de ação, facilitando a memorização do fluxo de uso.
@@ -26,13 +27,25 @@ A autenticação é simulada localmente, sem uso de banco de dados ou conexão c
 
 ## Metas de Experiência do Usuário
 
+=======
+- **Fácil de lembrar:** Interface simples e com poucos campos.
+- **Fácil de entender:** Rótulos claros e mensagens diretas.
+- **Útil:** Permite autenticação do usuário.
+- **Seguro:** O sistema utiliza campo de senha oculto, mensagens de erro genéricas e elementos visuais que reforçam a sensação de proteção dos dados do usuário.
+- **Eficiente:** Login rápido com feedback imediato.
+
+## Metas de Experiência
+>>>>>>> a838dcc503b5dcb8a6ba26341c51d2c382d66d23
 - **Esteticamente apreciável:** uso de cores suaves e layout moderno.
 - **Agradável:** interface limpa, sem excesso de informações.
 - **Emocionalmente adequada:** linguagem acolhedora e visual tranquilo.
 - **Satisfatória:** feedback positivo ao realizar o login com sucesso.
 - **Motivadora:**  o design acolhedor incentiva o usuário a continuar utilizando a aplicação.
 - **Interessante:** identidade visual alinhada ao contexto de bem-estar.
+<<<<<<< HEAD
 
+=======
+>>>>>>> a838dcc503b5dcb8a6ba26341c51d2c382d66d23
 
 ## Tecnologias Utilizadas
 - HTML
